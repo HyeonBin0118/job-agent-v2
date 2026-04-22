@@ -2,7 +2,7 @@
 
 > LangGraph 기반 채용공고 분석 · 이력서 매칭 · 자소서 생성 자동화 서비스 (v2)
 
-🚀 라이브 데모: (배포 후 링크 추가 예정)
+🚀 라이브 데모: https://job-agent-v2-24afclwhripefpk3gmqnr9.streamlit.app/
 
 ---
 
