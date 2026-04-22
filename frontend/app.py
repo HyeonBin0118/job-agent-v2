@@ -96,7 +96,7 @@ JSON만 반환해.
     result = response.choices[0].message.content.replace("```json", "").replace("```", "").strip()
     return json.loads(result)
 
-# ── UI ──────────────────────────────
+
 st.set_page_config(page_title="Job Agent v2", layout="wide")
 st.title("🤖 Job Agent v2")
 st.caption("채용공고 분석 · 이력서 매칭 · 자소서 생성 자동화")
